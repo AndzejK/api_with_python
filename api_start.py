@@ -1,0 +1,1 @@
+# My API Key -  29d5133045294bd9b81a0c49a14b32f2 from https://newsapi.org
