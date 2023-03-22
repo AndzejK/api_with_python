@@ -16,8 +16,7 @@ msc=data["city"] #getting info about city
 #storing conditions info in the list, e.x. 'clear sky', 'light rain', 'light rain'
 conditions=[]
 for all in org_list_from_openweathermap:
-    for desc in ((all["weather"])):
-        conditions.append(desc["description"])
+    conditions.append(all["weather"][0]["description"]) # coz the key "weather" stores another list 
 
 #storing date and time         
 time_dt=[]

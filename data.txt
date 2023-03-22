@@ -1,41 +1,41 @@
-City,Time,Temperature,Condition
-Vilnius, 2023-03-21 09:00:00, 5.75, light rain 
-Vilnius, 2023-03-21 12:00:00, 5.61, overcast clouds 
-Vilnius, 2023-03-21 15:00:00, 7.28, light rain 
-Vilnius, 2023-03-21 18:00:00, 5.93, overcast clouds 
-Vilnius, 2023-03-21 21:00:00, 5.14, broken clouds 
-Vilnius, 2023-03-22 00:00:00, 3.01, broken clouds 
-Vilnius, 2023-03-22 03:00:00, 1.91, scattered clouds 
-Vilnius, 2023-03-22 06:00:00, 3.4, scattered clouds 
-Vilnius, 2023-03-22 09:00:00, 8.82, few clouds 
-Vilnius, 2023-03-22 12:00:00, 11.32, few clouds 
-Vilnius, 2023-03-22 15:00:00, 10.9, few clouds 
-Vilnius, 2023-03-22 18:00:00, 6.83, few clouds 
-Vilnius, 2023-03-22 21:00:00, 6.65, few clouds 
-Vilnius, 2023-03-23 00:00:00, 5.86, few clouds 
-Vilnius, 2023-03-23 03:00:00, 5.66, scattered clouds 
-Vilnius, 2023-03-23 06:00:00, 6.72, broken clouds 
-Vilnius, 2023-03-23 09:00:00, 11, overcast clouds 
-Vilnius, 2023-03-23 12:00:00, 13.24, overcast clouds 
-Vilnius, 2023-03-23 15:00:00, 12.61, light rain 
-Vilnius, 2023-03-23 18:00:00, 10.35, light rain 
-Vilnius, 2023-03-23 21:00:00, 8.87, light rain 
-Vilnius, 2023-03-24 00:00:00, 9.48, light rain 
-Vilnius, 2023-03-24 03:00:00, 8.61, light rain 
-Vilnius, 2023-03-24 06:00:00, 8.98, overcast clouds 
-Vilnius, 2023-03-24 09:00:00, 10.42, overcast clouds 
-Vilnius, 2023-03-24 12:00:00, 9.7, light rain 
-Vilnius, 2023-03-24 15:00:00, 10.37, light rain 
-Vilnius, 2023-03-24 18:00:00, 11.12, light rain 
-Vilnius, 2023-03-24 21:00:00, 11.68, light rain 
-Vilnius, 2023-03-25 00:00:00, 7.62, light rain 
-Vilnius, 2023-03-25 03:00:00, 6.25, light rain 
-Vilnius, 2023-03-25 06:00:00, 6.57, broken clouds 
-Vilnius, 2023-03-25 09:00:00, 10.04, overcast clouds 
-Vilnius, 2023-03-25 12:00:00, 10.96, overcast clouds 
-Vilnius, 2023-03-25 15:00:00, 10.07, overcast clouds 
-Vilnius, 2023-03-25 18:00:00, 8.33, overcast clouds 
-Vilnius, 2023-03-25 21:00:00, 7.32, overcast clouds 
-Vilnius, 2023-03-26 00:00:00, 6.48, overcast clouds 
-Vilnius, 2023-03-26 03:00:00, 6.75, light rain 
-Vilnius, 2023-03-26 06:00:00, 6.56, overcast clouds 
+City,Time,Temperature,conditions
+Sydney,2023-03-22 09:00:00,22.59,light rain
+Sydney,2023-03-22 12:00:00,21.76,light rain
+Sydney,2023-03-22 15:00:00,19.83,overcast clouds
+Sydney,2023-03-22 18:00:00,19.17,broken clouds
+Sydney,2023-03-22 21:00:00,19.39,overcast clouds
+Sydney,2023-03-23 00:00:00,21.05,light rain
+Sydney,2023-03-23 03:00:00,22.89,light rain
+Sydney,2023-03-23 06:00:00,20.62,light rain
+Sydney,2023-03-23 09:00:00,19.81,light rain
+Sydney,2023-03-23 12:00:00,19.15,light rain
+Sydney,2023-03-23 15:00:00,18.79,overcast clouds
+Sydney,2023-03-23 18:00:00,18.4,broken clouds
+Sydney,2023-03-23 21:00:00,19.37,clear sky
+Sydney,2023-03-24 00:00:00,21.86,light rain
+Sydney,2023-03-24 03:00:00,22.78,light rain
+Sydney,2023-03-24 06:00:00,22.47,light rain
+Sydney,2023-03-24 09:00:00,20.8,light rain
+Sydney,2023-03-24 12:00:00,20.42,moderate rain
+Sydney,2023-03-24 15:00:00,18.52,light rain
+Sydney,2023-03-24 18:00:00,18.97,light rain
+Sydney,2023-03-24 21:00:00,19.47,light rain
+Sydney,2023-03-25 00:00:00,20.03,light rain
+Sydney,2023-03-25 03:00:00,20.46,light rain
+Sydney,2023-03-25 06:00:00,20.19,moderate rain
+Sydney,2023-03-25 09:00:00,19.8,light rain
+Sydney,2023-03-25 12:00:00,19.86,light rain
+Sydney,2023-03-25 15:00:00,19.65,overcast clouds
+Sydney,2023-03-25 18:00:00,19.59,light rain
+Sydney,2023-03-25 21:00:00,19.38,light rain
+Sydney,2023-03-26 00:00:00,21.05,light rain
+Sydney,2023-03-26 03:00:00,21.75,overcast clouds
+Sydney,2023-03-26 06:00:00,21.12,broken clouds
+Sydney,2023-03-26 09:00:00,19.43,few clouds
+Sydney,2023-03-26 12:00:00,19.7,broken clouds
+Sydney,2023-03-26 15:00:00,19.1,overcast clouds
+Sydney,2023-03-26 18:00:00,17.31,overcast clouds
+Sydney,2023-03-26 21:00:00,18,overcast clouds
+Sydney,2023-03-27 00:00:00,22.42,overcast clouds
+Sydney,2023-03-27 03:00:00,25.22,overcast clouds
+Sydney,2023-03-27 06:00:00,24.04,overcast clouds
