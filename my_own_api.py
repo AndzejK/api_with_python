@@ -24,7 +24,7 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     home_content = "<center><h1>Currency Rate API</h1></center> Here you can find all needed info regarding this API!"
-    api_usage="<p>To access currancy rate use this link and specufy desired currancy nominals  - <i>/api/v1/<b>cur_in</b>-<b>cur_out</b></i></p>"
+    api_usage="<p>To access currency rate use this link and specufy desired currency nominals  - <i>/api/v1/<b>cur_in</b>-<b>cur_out</b></i></p>"
     example="<p>API URL: domain/api/v1/usd-eur -> http://127.0.0.1:5000/api/v1/usd-eur</p>"
     return f"{home_content} {api_usage} {example}"
 
